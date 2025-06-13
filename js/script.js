@@ -116,10 +116,10 @@ function showQuetions(index){
     //document.getElementById("Ques").appendChild(x);
     document.getElementById("Ques").appendChild(x);*/
 
-    if (questions[index].immg=="img5")
+    if (questions[index].immg=="img2")
         {
             var x = document.createElement("IMG");
-    x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//5.png");
+    x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//2.png");
     //x.setAttribute("width", "304");
    // x.setAttribute("height", "228");
     x.setAttribute("alt", "Image Can not Display");
@@ -127,40 +127,30 @@ function showQuetions(index){
     document.getElementById("Ques").appendChild(x);
         }
 
-        if (questions[index].immg=="img11")
+        if (questions[index].immg=="img13")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//11.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//13.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-     if (questions[index].immg=="img12")
+     if (questions[index].immg=="img15")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//12.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//15.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-     if (questions[index].immg=="img13")
+     if (questions[index].immg=="img16")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//13.png");
-        //x.setAttribute("width", "304");
-       // x.setAttribute("height", "228");
-        x.setAttribute("alt", "Image Can not Display");
-        //document.getElementById("Ques").appendChild(x);
-        document.getElementById("Ques").appendChild(x);
-            }
-     if (questions[index].immg=="img14")
-            {
-                var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//14.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//16.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -170,17 +160,27 @@ function showQuetions(index){
      if (questions[index].immg=="img18")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//18.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//18.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-     if (questions[index].immg=="img21")
+     if (questions[index].immg=="img19")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//21.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//19.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
+     if (questions[index].immg=="img23")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//23.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
@@ -188,87 +188,106 @@ function showQuetions(index){
         document.getElementById("Ques").appendChild(x);
             }
 
-       if (questions[index].immg=="img25")
+       if (questions[index].immg=="img24")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//25.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//24.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-       if (questions[index].immg=="img30")
+       if (questions[index].immg=="img27")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//30.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//27.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-       if (questions[index].immg=="img32")
+       if (questions[index].immg=="img28")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//32.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//28.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-            if (questions[index].immg=="img39")
+            if (questions[index].immg=="img29")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//39.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//29.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-            if (questions[index].immg=="img40")
+            if (questions[index].immg=="img30")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//40.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//30.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-            if (questions[index].immg=="img41")
+            if (questions[index].immg=="img31")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//41.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//31.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-      if (questions[index].immg=="img42")
+      if (questions[index].immg=="img32")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//42.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//32.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-            if (questions[index].immg=="img46")
+            if (questions[index].immg=="img33")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER21//Images//46.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//33.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
-      
+     if (questions[index].immg=="img34")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//34.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
+       if (questions[index].immg=="img35")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER23//Images//35.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
            
 }
 // creating the new div tags which for icons
